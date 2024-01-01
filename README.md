@@ -1,6 +1,14 @@
 # 💫 Hakkımda:
 6 yıla aşkın bir süredir web teknolijleri ile ilgileniyorum. Her geçen gün kendimi daha da geliştiriyor ve profosyonele yakın projeler geliştiriyorum. Hobi amaçlı başladığım bu serüvende kendime çok şey kattım. Öğrenmeye hevesli, hızlı adapte olabilen ve sürekli bir şeyler üretmeye çalışan biriyim.
 
+<div class="card" style="width: 18rem;">
+  <ul class="list-group list-group-flush">
+    <li class="list-group-item">Cras justo odio</li>
+    <li class="list-group-item">Dapibus ac facilisis in</li>
+    <li class="list-group-item">Vestibulum at eros</li>
+  </ul>
+</div>
+
 
 ## 🌐 Sosyal Medya:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/f6hri.code) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/f6hri) 
