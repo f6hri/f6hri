@@ -10,6 +10,8 @@
 # 🏗️ Projelerim
 <div style="display:flex;gap:5px">
   <div style="padding:10px; border:1px solid #ddd">Projem</div>
+  <div style="padding:10px; border:1px solid #ddd">Projem</div>
+  <div style="padding:10px; border:1px solid #ddd">Projem</div>
 </div>
 
 ---
