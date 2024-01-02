@@ -16,7 +16,7 @@
 
 ### Passave Şifre Yönetici
 
-![](https://www.figma.com/file/H5cdJh7Eo8XsfMIk6iWJ4f/Password-manager-app-with-prototype-(Community)?type=design&node-id=245-3217&mode=design&t=vcNU8eIPuYBpytD7-4)
+![](https://i.ibb.co/ww8hS9f/Frame-1.png)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=f6hri&icon=0&color=0)](https://visitcount.itsvg.in)
