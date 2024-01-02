@@ -10,7 +10,7 @@
 # 🏗️ Projelerim
 ### Moviroom Web App
 [![Static Badge](https://img.shields.io/badge/Canl%C4%B1-green?style=for-the-badge&logo=netlify&link=https%3A%2F%2Fmoviroom.netlify.app)](https://moviroom.netlify.app)
-![Static Badge](https://img.shields.io/badge/Kaynak%20Kodlar-gray?style=for-the-badge&logo=github&link=https%3A%2F%2Fmoviroom.netlify.app)
+[![Static Badge](https://img.shields.io/badge/Kaynak%20Kodlar-gray?style=for-the-badge&logo=github&link=https%3A%2F%2Fmoviroom.netlify.app)](https://github.com/f6hri/moviroom-webapp)
 
 [![](https://miro.medium.com/v2/resize:fit:720/format:webp/0*YM1kUsmkKiF1zvPb.png)](https://medium.com/@mertcobanov/t%C3%BCrk%C3%A7e-tmux-rehberi-685081a277c4)
 
