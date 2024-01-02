@@ -11,7 +11,7 @@
 ### Moviroom Web App 
 [![](https://miro.medium.com/v2/resize:fit:720/format:webp/0*YM1kUsmkKiF1zvPb.png)](https://medium.com/@mertcobanov/t%C3%BCrk%C3%A7e-tmux-rehberi-685081a277c4)
 
----
+--
 [🟢 Canlı](https://moviroom.netlify.app)
 [📂 Kaynak Kodları](https://github.com/f6hri/moviroom-webapp)
 
