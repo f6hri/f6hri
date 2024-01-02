@@ -9,6 +9,7 @@
 
 # 🏗️ Projelerim
 ### Moviroom Web App
+---
 [![Static Badge](https://img.shields.io/badge/Canl%C4%B1-green?style=for-the-badge&logo=netlify&link=https%3A%2F%2Fmoviroom.netlify.app)](https://moviroom.netlify.app)
 ![Static Badge](https://img.shields.io/badge/Kaynak%20Kodlar-gray?style=for-the-badge&logo=github&link=https%3A%2F%2Fmoviroom.netlify.app)
 
