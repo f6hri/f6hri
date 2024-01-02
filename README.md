@@ -15,6 +15,7 @@
 [![](https://miro.medium.com/v2/resize:fit:720/format:webp/0*YM1kUsmkKiF1zvPb.png)](https://medium.com/@mertcobanov/t%C3%BCrk%C3%A7e-tmux-rehberi-685081a277c4)
 
 ### Passave Şifre Yönetici
+![Static Badge](https://img.shields.io/badge/Geli%C5%9Ftirme-brown?style=for-the-badge)
 
 ![](https://i.ibb.co/ww8hS9f/Frame-1.png)
 
